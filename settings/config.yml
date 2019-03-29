@@ -1,0 +1,23 @@
+dev:
+  mysql:
+    dbHost: 127.0.0.1
+    dbPort: 3306
+    dbDatabase: test
+    dbUsername: test
+    dbPassword: test
+
+test:
+  mysql:
+    dbHost: 127.0.0.1
+    dbPort: 3306
+    dbDatabase: test
+    dbUsername: test
+    dbPassword: test
+
+product:
+  mysql:
+    dbHost: 127.0.0.1
+    dbPort: 3306
+    dbDatabase: test
+    dbUsername: test
+    dbPassword: test
